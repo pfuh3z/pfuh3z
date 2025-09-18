@@ -1,4 +1,4 @@
-## Hi you 👋
+## Hi there 👋 I'm Dries Schiltz.
 
 I'm learning how to use GitHub, inspired by the '[7 Days of GitHub](https://github.com/orgs/community/discussions/166411)' initiative that I came across. Until now, I knew GitHub exists and have interacted with some repositories in the past, but never really got around to thoroughly understanding it and properly using it.
 I wanted to change that, and felt empowered by this initiative!
